@@ -1,0 +1,63 @@
+body{
+    background-color: #9fb3c8;
+}
+
+.card{
+    width: auto;
+    float: left;
+    padding: 5%;
+    margin-right: 5%;
+    /* background-color: aqua; */
+    /* border-radius: 10px; */
+}
+
+h1 {
+    color: rgb(159, 219, 17);
+    text-align: center;
+    
+    
+}
+
+h2 {
+    color: rgb(56, 20, 184);
+    text-align: center;
+}
+
+h3 {
+    color: rgb(201, 11, 27);
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.center-header{
+    text-align: center;
+}
+
+div.container {
+    text-align: center;
+  }
+  
+ul.myUL {
+    display: inline-block;
+    text-align: left;
+ 
+
+  }
+
+article.container{
+    text-align: center;
+}
+
+.center
+{
+ text-align: center;
+ list-style-position: inside;
+}
+ol.center li
+{
+ text-align: left;
+ margin-left: 40%;
+}
